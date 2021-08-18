@@ -22,6 +22,7 @@ This document explains who the maintainers are (see below), what they do in this
 | Mital Awachat            | [mitalawachat](https://github.com/mitalawachat) | Amazon      |
 | Bukhtawar Khan           | [Bukhtawar](https://github.com/Bukhtawar)       | Amazon      |
 | Vamshi Vijay Nakkirtha   | [vamshin](https://github.com/vamshin)           | Amazon      |
+| Madhusudhan Konda        | [madhusudhankonda](https://github.com/madhusudhankonda)|       |
 
 ## Maintainer Responsibilities
 
